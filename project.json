@@ -1,0 +1,58 @@
+{
+  "navigation" : [
+    {
+        "Title": "Html5",
+        "Src": "http://ksrm-ic.in/wp-content/uploads/2017/02/HTML5-200x200.png",
+        "Description": {
+          "name-article" : "Some description",
+          "name-article" : "Some description",
+          "name-article" : "Some description"
+        }
+    },
+    {
+        "Title": "CSS3",
+        "Src": "https://www.javatpoint.com/csspages/images/css-tutorial.png",
+        "Description": {
+          "name-article" : "Some description",
+          "name-article" : "Some description",
+          "name-article" : "Some description"
+        }
+    },
+    {
+        "Title": "JavaScript",
+        "Src": "http://alexdev.ru/wp-content/uploads/2015/06/JS-logo.png",
+        "Description": {
+          "name-article" : "Some description",
+          "name-article" : "Some description",
+          "name-article" : "Some description"
+        }
+    },
+    {
+        "Title": "ReactJS",
+        "Src": "http://reactjshire.com/img/reactjs.png",
+        "Description": {
+          "name-article" : "Some description",
+          "name-article" : "Some description",
+          "name-article" : "Some description"
+        }
+    },
+    {
+        "Title": "Vue.JS",
+        "Src": "https://avatars3.githubusercontent.com/u/6128107?s=200&v=4",
+        "Description": {
+          "name-article" : "Some description",
+          "name-article" : "Some description",
+          "name-article" : "Some description"
+        }
+    },
+    {
+        "Title": "Angular",
+        "Src": "https://assets.devcon.ph/uploads/event/logo/angularjs-code-camp/opengraph_Angular_logo.png",
+        "Description": {
+          "name-article" : "Some description",
+          "name-article" : "Some description",
+          "name-article" : "Some description"
+        }
+    }
+  ]
+}
