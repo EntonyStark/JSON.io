@@ -44,11 +44,13 @@
     {
         "Title": "Angular",
         "Src": "https://assets.devcon.ph/uploads/event/logo/angularjs-code-camp/opengraph_Angular_logo.png",
-        "Description": {
-          "name-article" : "Some description",
-          "name-article" : "Some description",
-          "name-article" : "Some description"
-        }
+        "Description": [
+          {"someText" : "This section is empty, dont look"},
+          {"someText" : "We have not learned this yet"},
+          {"someText" : "I told you - do not look"},
+          {"someText" : "You do not trust me?"},
+          {"someText" : "Stop doing it!"}
+        ]
     }
   ]
 }
